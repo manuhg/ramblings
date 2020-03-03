@@ -1,3 +1,6 @@
+Here I write in my free time on whatever I have read/watched. 
+- To just keep track of things like notes
+- also the feynman technique (try to explain and it will show the gap in your understanding)
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
