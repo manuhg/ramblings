@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "https://manuhg.github.io/",
     "title": "",
-    "body": "Here I write in my free time on whatever I have read/watched.  To just keep track of things like notes   also the feynman technique (try to explain and it will show the gap in your understanding):   Feel free to add content and custom Front Matter to this file.   To modify the layout, see https://jekyllrb. com/docs/themes/#overriding-theme-defaults layout: homesearch: exclude— This site is built with fastpages, An easy to use blogging platform with extra features for Jupyter Notebooks.  fastpages automates the process of creating blog posts via GitHub Actions, so you don’t have to fuss with conversion scripts.  A full list of features can be found on GitHub. You can edit the index. md file to change this content. Posts"
+    "body": "Here I write in my free time on whatever I have read/watched.  To just keep track of things like notes   also the feynman technique (try to explain and it will show the gap in your understanding):  This site is built with fastpages, An easy to use blogging platform with extra features for Jupyter Notebooks.  fastpages automates the process of creating blog posts via GitHub Actions, so you don’t have to fuss with conversion scripts. Posts"
     }, {
     "id": 4,
     "url": "https://manuhg.github.io/images/copied_from_nb/",
