@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/manuhegdev
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/manu-hegde
+    - icon: github
+      text: Github
+      href: https://github.com/manuhg
+    - icon: website
+      href: https://manuhegde.in/
+
+---
+
+About this blog
